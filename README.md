@@ -6,7 +6,7 @@
 | Read02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read02)       |
 | Read03      | Text        |
 | Read04      | Text        |
-| Read05      | Text        |
+| Read05      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read05)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
