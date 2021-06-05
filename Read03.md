@@ -26,7 +26,8 @@ ________
 4. draw a outlining and representing features and formats withiout fine details with no asthetics and no colours.(big marker,organize content to creat somthign usable)
 5. add detail and get testing (*form and functionality*) ex.navigation bar , search box
 6. wireframe into prototype (*import them into the industry-leading prototyping tool InVision*).  
-> # FOR BEST PRACTICE AIM FOR CLARITY, USER CONFIDENCE AND SIMPLICITY.
+> ### FOR BEST PRACTICE AIM FOR CLARITY, USER CONFIDENCE AND SIMPLICITY.   
+
 # HTML  (Hypertext Markup Language)
 *reference [link](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)* 
 * to structure web page and its content 
@@ -34,10 +35,10 @@ ________
 * series of elements and tags
 * individual elements are combined to form an entire HTML page
 ### anatomy of HTML ![PICTURE](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
-* opening tag :<P> is the name of the element 
+* opening tag : <P> is the name of the element 
 * The closing tag : includes a forward slash
 * The content : just text 
-* The element:all of the above
+* The element : all of the above
 * Attributes contain extra information about the element:
 ![picture](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)  
 
@@ -60,18 +61,21 @@ ________
 * `<title></title>` : title of the page
 * `<body></body>` : all the content that should show to web users 
 > ### Hint alt attribute 
->> for imges <img src="images/firefox-icon.png" alt="My test image"> the attribute alt if the image didnt show up and for visually impaired.    
+>> for imges `<img src="images/firefox-icon.png" alt="My test image">` the attribute alt if the image didnt show up and for visually impaired.    
 
 # Marking up text
-* Headings : main title, chapter titles, and subtitles. <h1>–<h6>
->```<h1>My main title</h1>
+* Headings : main title, chapter titles, and subtitles. <h1>–<h6>    
+```
+<h1>My main title</h1>
 <h1>My main title</h1>
 <h2>My top level heading</h2>
 <h3>My subheading</h3>
 <h4>My sub-subheading</h4>  
+```   
 
 * Paragraphs : `<p>` frequently used to mark up regular text content 
-* Lists are always consist of at least 2 elements :unordered list `<ul>` ordered `<ol>` and <li> list item
+* Lists are always consist of at least 2 elements :unordered list `<ul>` ordered `<ol>` and <li> list item     
+
 ```
 <p>At Mozilla, we’re a global community of</p>
 <ul>
@@ -79,7 +83,7 @@ ________
   <li>thinkers</li>
   <li>builders</li>
 </ul>
-``` 
+```    
 
 * link : use element `<a></a>` for anchored ,with `herf` attribute for hypertext reference.
 # Semantics in HTML
