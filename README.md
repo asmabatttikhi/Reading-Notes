@@ -4,7 +4,7 @@
 | :-----------: | :-----------: |
 | Read00      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read01)       |
 | Read01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read02)       |
-| Read02      | Text        |
+| Read02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read03)       |
 | Read03      | Text        |
 | Read04      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read05)       |
 | Read05      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read05)       |
