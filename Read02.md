@@ -21,14 +21,9 @@ ____________
 #### the three main states if Git files are : committed (*stored in the local base*) , modified (*file has been changed but not stored*) and staged. 
 
 * This is how git works: ![picture](git.jpg) 
-<<<<<<< HEAD
+
 >Some of git commands are :
 * git add . (*command to set files as staged*)
 * git commit (*command to take a snapshot of the staged files*) 
 * git push (*command to send your new snapshot of changes to the remote repo*) 
-* git status. 
-=======
->Some of git commands are : git add . , git commit , git push , git status. 
->>>>>>> a16d55134eb34daa610dd94401d43f7927f3afb4
-
- 
+* git status.  
