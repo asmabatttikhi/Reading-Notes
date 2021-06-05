@@ -15,10 +15,10 @@ ________
 * `*` for unordered lists and numbers `1.` for orderd list 
 * `![GitHub Logo](/images/logo.png) , Format: ![Alt Text](url)` to link an image
 * `[GitHub](http://github.com)` as example of a link 
-* ` > We're living the future so` for Blockquotes
+* `> We're living the future so` for Blockquotes
 
 
- ## *github.com and mark down language ?*
+## *github.com and mark down language ?*
  >what is github.com ? 
  >> its a place that works as a reposetry to your codes. 
  >
@@ -26,5 +26,6 @@ ________
  >> * It turns github reposetry into websites with no data to setup and no server to configure.
  >> * project sites from personal URL tied to the username.  
  >
- >github and mark down ?
+ >github and mark down language ?
  >> you can edit website and pages through using mark down language.
+ 
