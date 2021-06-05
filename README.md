@@ -2,15 +2,12 @@
 
 | Title      | Link |
 | :-----------: | :-----------: |
-| Read01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read01)       |
-| Read02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read02)       |
+| Read00      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read01)       |
+| Read01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read02)       |
+| Read02      | Text        |
 | Read03      | Text        |
-| Read04      | Text        |
-<<<<<<< HEAD
+| Read04      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read05)       |
 | Read05      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read05)       |
-=======
-| Read05      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read05)        |
->>>>>>> f7e64a08d58f87350b8feef8dd7139d723838c7c
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
