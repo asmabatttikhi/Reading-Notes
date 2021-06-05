@@ -9,7 +9,7 @@ ________
 >as an example :  
      `It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)`   
 
-## * example syntax of mark down language ?*
+## *example syntax of mark down language ?*
 * `#` for header 
 * `*` and `_` for bold and italic 
 * `*` for unordered lists and numbers `1.` for orderd list 
@@ -18,7 +18,7 @@ ________
 * ` > We're living the future so` for Blockquotes
 
 
- ## * github.com and mark down language ?*
+ ## *github.com and mark down language ?*
  >what is github.com ? 
  >> its a place that works as a reposetry to your codes. 
  >
