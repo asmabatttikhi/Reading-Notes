@@ -64,38 +64,15 @@ ________
 >> for imges `<img src="images/firefox-icon.png" alt="My test image">` the attribute alt if the image didnt show up and for visually impaired.    
 
 # Marking up text
-* Headings : main title, chapter titles, and subtitles. <h1>–<h6>    
-```
-<h1>My main title</h1>
-<h1>My main title</h1>
-<h2>My top level heading</h2>
-<h3>My subheading</h3>
-<h4>My sub-subheading</h4>  
-```   
-
+* Headings : main title, chapter titles, and subtitles.`<h1>–<h6>`  
 * Paragraphs : `<p>` frequently used to mark up regular text content 
-* Lists are always consist of at least 2 elements :unordered list `<ul>` ordered `<ol>` and <li> list item     
-
-```
-<p>At Mozilla, we’re a global community of</p>
-<ul>
-  <li>technologists</li>
-  <li>thinkers</li>
-  <li>builders</li>
-</ul>
-```    
-
+* Lists are always consist of at least 2 elements :unordered list `<ul>` ordered `<ol>` and <li> list item      
 * link : use element `<a></a>` for anchored ,with `herf` attribute for hypertext reference.
 # Semantics in HTML
 * HTML should be coded to represent the data , not based on the presentation style. The semantics of using <h1> is a top level heading of the page
 * the benifits of semantics are : for search engine as a keywords, screen reader for visually impaired users , meainingfull codes are easy to find 
 
->which markup to use depend on as example: 
+>which markup to use depend on : 
 * type of the data like is it list of data , ordered or unordered 
 * article with sections 
 * header or footer 
-
-
-
-
-
