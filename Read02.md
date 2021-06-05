@@ -1,40 +1,34 @@
-> # MARK DOWN LANGUAGE  
-_______ 
+> # GIT INTRODUCTION 
+________   
 
-*reference [link](https://guides.github.com/features/mastering-markdown/)*  
+*reference [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)* 
+# version control  
 
-## *what is mark down language ?* 
+_________ 
 
-1. a way to style text. 
-2. files with `.md` or `.markdown` 
-3. mostly uses non-alphabetic characters like # or *  
->as an example :  
-`It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)`  
+* Its a system that allows to revisit various versions of a file or set of files by recording changes. through system called **VCS** 
+* a **local version** system is a place where all data of the file are stored. 
+* **Centralized Version Control** CVCS, allows for more collaboration between team members 
+* **Distributed Version Control** DVCS, it creates a mirrored repositories as a data backups, it can be easily be placed on the server to replace any lost information.   
 
- 
- 
-
-## *example syntax of mark down language ?* 
-
-* `#` for header  
-* `*` and `_` for bold and italic  
-* `*` for unordered lists and numbers `1.` for ordered list  
-* `![GitHub Logo](/images/logo.png) , Format: ![Alt Text](URL)` to link an image 
-* `[GitHub](http://github.com)` as example of a link  
-* `> We're living the future so` for Blockquotes 
-
-
-## *github.com and mark down language ?* 
-
->what is github.com ?  
-
->> its a place that works as a repository to your codes.  
+>  Git is DVCS that stores data as and create a new version as **snapshots** every saved change called commit . 
 > 
-> what is GitHub pages? 
->> * It turns GitHub repository into websites with no data to setup and no server to configure. 
->> * project sites from personal URL tied to the username.  
+> Git uses the local operations, it can be found on the local disk it allows the one to continue work on a project without being online. 
 > 
->GitHub and mark down language ? 
->> you can edit website and pages through using mark down language. 
+> Git works as the gatekeeper so any change or loss of information will be tracked 
+____________ 
+
+#### the three main states if Git files are : committed (*stored in the local base*) , modified (*file has been changed but not stored*) and staged. 
+
+* This is how git works: ![picture](git.jpg) 
+<<<<<<< HEAD
+>Some of git commands are :
+* git add . (*command to set files as staged*)
+* git commit (*command to take a snapshot of the staged files*) 
+* git push (*command to send your new snapshot of changes to the remote repo*) 
+* git status. 
+=======
+>Some of git commands are : git add . , git commit , git push , git status. 
+>>>>>>> a16d55134eb34daa610dd94401d43f7927f3afb4
 
  
