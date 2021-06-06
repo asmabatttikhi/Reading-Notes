@@ -35,6 +35,4 @@ _______
 >> * project sites from personal URL tied to the username.  
 > 
 >GitHub and mark down language ? 
->> you can edit website and pages through using mark down language. 
-
- 
+>> you can edit website and pages through using mark down language.
