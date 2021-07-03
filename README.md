@@ -13,6 +13,7 @@
 | Read06      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read06)       |
 | Read07      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read07)       |
 
+<<<<<<< HEAD
 # code 201 Reading Notes
 
 
