@@ -13,10 +13,11 @@
 | Read06      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read06)       |
 | Read07      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read07)       |
 
-<<<<<<< HEAD
+
 # code 201 Reading Notes
 
 
 | Title      | Link |
 | :-----------: | :-----------: |
-| Read00      | [Link](https://asmabatttikhi.github.io/Reading-Notes/Read00)       |
+| class-01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-01.md)       |
+| class-02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-02.md)       |
