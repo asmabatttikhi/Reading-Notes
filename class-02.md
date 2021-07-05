@@ -7,15 +7,13 @@
 * `<br />` just one of it makes a new line , `<hr />` makes a line in the middle , called empty elements with space and a forward slash
 character .
 * `<strong>` strong emphasis , The `<em>` element indicates emphasis .
-* **Quotations** The `<blockquote>` element is used for longer quotes that take up an entire paragraph . `<q>` for shorter quotes .
-```    
+* **Quotations** The `<blockquote>` element is used for longer quotes that take up an entire paragraph . `<q>` for shorter quotes .    
+
+``` 
 <blockquote cite="http://en.wikipedia.org/wiki/
 Winnie-the-Pooh">
-``` 
  <p>Did you ever stop to think, and forget to start
  again?</p>
-</blockquote>
-```  
-
-
-
+</blockquote> 
+```
+   
