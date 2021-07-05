@@ -19,5 +19,5 @@
 
 | Title      | Link |
 | :-----------: | :-----------: |
-| class-01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-01.md)       |
-| class-02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-02.md)       |
+| class-01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-01)       |
+| class-02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-02)       |
