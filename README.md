@@ -21,3 +21,4 @@
 | :-----------: | :-----------: |
 | class-01      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-01)       |
 | class-02      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-02)       |
+| class-03      | [Link](https://asmabatttikhi.github.io/Reading-Notes/class-03)       |
